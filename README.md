@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parksoyeon-w
 - 👀 I’m interested in Web programing
-- 🌱 I’m currently learning Html
+- 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
